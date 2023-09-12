@@ -1,0 +1,11 @@
+
+body {
+  margin: 50;
+  display: contents;
+  font-weight: "Roboto", Arial !important;
+  place-items: center;
+  /* min-width: 320px;
+  min-height: 100vh; */
+  background-color: #d5d4d4;
+}
+
